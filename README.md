@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0390-elimination-game](https://github.com/navaneetcs27-debug/java-training/tree/main/0390-elimination-game/) | Medium |
 | [0782-transform-to-chessboard](https://github.com/navaneetcs27-debug/java-training/tree/main/0782-transform-to-chessboard/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -54,4 +55,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0782-transform-to-chessboard](https://github.com/navaneetcs27-debug/java-training/tree/main/0782-transform-to-chessboard/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0390-elimination-game](https://github.com/navaneetcs27-debug/java-training/tree/main/0390-elimination-game/) | Medium |
 <!---LeetCode Topics End-->
