@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/navaneetcs27-debug/java-training/tree/main/0042-trapping-rain-water/) | Hard |
+| [0070-climbing-stairs](https://github.com/navaneetcs27-debug/java-training/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/navaneetcs27-debug/java-training/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/navaneetcs27-debug/java-training/tree/main/0070-climbing-stairs/) | Easy |
 | [0390-elimination-game](https://github.com/navaneetcs27-debug/java-training/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/navaneetcs27-debug/java-training/tree/main/0509-fibonacci-number/) | Easy |
 | [0782-transform-to-chessboard](https://github.com/navaneetcs27-debug/java-training/tree/main/0782-transform-to-chessboard/) | Hard |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/navaneetcs27-debug/java-training/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/navaneetcs27-debug/java-training/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
