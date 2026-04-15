@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/navaneetcs27-debug/java-training/tree/main/0031-next-permutation/) | Medium |
+| [0039-combination-sum](https://github.com/navaneetcs27-debug/java-training/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/navaneetcs27-debug/java-training/tree/main/0042-trapping-rain-water/) | Hard |
 | [0283-move-zeroes](https://github.com/navaneetcs27-debug/java-training/tree/main/0283-move-zeroes/) | Easy |
 | [0782-transform-to-chessboard](https://github.com/navaneetcs27-debug/java-training/tree/main/0782-transform-to-chessboard/) | Hard |
@@ -71,4 +72,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/navaneetcs27-debug/java-training/tree/main/0509-fibonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/navaneetcs27-debug/java-training/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
