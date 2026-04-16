@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/navaneetcs27-debug/java-training/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/navaneetcs27-debug/java-training/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/navaneetcs27-debug/java-training/tree/main/0056-merge-intervals/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/navaneetcs27-debug/java-training/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/navaneetcs27-debug/java-training/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/navaneetcs27-debug/java-training/tree/main/0283-move-zeroes/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/navaneetcs27-debug/java-training/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/navaneetcs27-debug/java-training/tree/main/0041-first-missing-positive/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/navaneetcs27-debug/java-training/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/navaneetcs27-debug/java-training/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0525-contiguous-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0525-contiguous-array/) | Medium |
 ## Prefix Sum
@@ -117,4 +119,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/navaneetcs27-debug/java-training/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/navaneetcs27-debug/java-training/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
