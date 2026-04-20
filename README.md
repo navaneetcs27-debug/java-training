@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/navaneetcs27-debug/java-training/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/navaneetcs27-debug/java-training/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/navaneetcs27-debug/java-training/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/navaneetcs27-debug/java-training/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/navaneetcs27-debug/java-training/tree/main/0051-n-queens/) | Hard |
 | [0056-merge-intervals](https://github.com/navaneetcs27-debug/java-training/tree/main/0056-merge-intervals/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/navaneetcs27-debug/java-training/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/navaneetcs27-debug/java-training/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/navaneetcs27-debug/java-training/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/navaneetcs27-debug/java-training/tree/main/0051-n-queens/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
