@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/navaneetcs27-debug/java-training/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/navaneetcs27-debug/java-training/tree/main/0056-merge-intervals/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/navaneetcs27-debug/java-training/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0198-house-robber](https://github.com/navaneetcs27-debug/java-training/tree/main/0198-house-robber/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/navaneetcs27-debug/java-training/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/navaneetcs27-debug/java-training/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/navaneetcs27-debug/java-training/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/navaneetcs27-debug/java-training/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/navaneetcs27-debug/java-training/tree/main/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/navaneetcs27-debug/java-training/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/navaneetcs27-debug/java-training/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
