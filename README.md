@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/navaneetcs27-debug/java-training/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/navaneetcs27-debug/java-training/tree/main/0283-move-zeroes/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
