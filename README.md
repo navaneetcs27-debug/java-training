@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/navaneetcs27-debug/java-training/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/navaneetcs27-debug/java-training/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/navaneetcs27-debug/java-training/tree/main/0509-fibonacci-number/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,8 +205,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
