@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/navaneetcs27-debug/java-training/tree/main/0283-move-zeroes/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/navaneetcs27-debug/java-training/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0876-middle-of-the-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -170,10 +171,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/navaneetcs27-debug/java-training/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0148-sort-list/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/navaneetcs27-debug/java-training/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/navaneetcs27-debug/java-training/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/navaneetcs27-debug/java-training/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/navaneetcs27-debug/java-training/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
@@ -186,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/navaneetcs27-debug/java-training/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/navaneetcs27-debug/java-training/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -229,4 +233,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/navaneetcs27-debug/java-training/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
