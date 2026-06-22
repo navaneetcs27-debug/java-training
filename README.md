@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/navaneetcs27-debug/java-training/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/navaneetcs27-debug/java-training/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/navaneetcs27-debug/java-training/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/navaneetcs27-debug/java-training/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/navaneetcs27-debug/java-training/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0148-sort-list/) | Medium |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/navaneetcs27-debug/java-training/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/navaneetcs27-debug/java-training/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/navaneetcs27-debug/java-training/tree/main/0078-subsets/) | Medium |
+| [0088-merge-sorted-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/navaneetcs27-debug/java-training/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/navaneetcs27-debug/java-training/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0189-rotate-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0189-rotate-array/) | Medium |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/navaneetcs27-debug/java-training/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/navaneetcs27-debug/java-training/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/navaneetcs27-debug/java-training/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0148-sort-list/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/navaneetcs27-debug/java-training/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Design
