@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/navaneetcs27-debug/java-training/tree/main/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/navaneetcs27-debug/java-training/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0876-middle-of-the-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/navaneetcs27-debug/java-training/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,12 +64,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0525-contiguous-array/) | Medium |
 | [0782-transform-to-chessboard](https://github.com/navaneetcs27-debug/java-training/tree/main/0782-transform-to-chessboard/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/navaneetcs27-debug/java-training/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/navaneetcs27-debug/java-training/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/navaneetcs27-debug/java-training/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/navaneetcs27-debug/java-training/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/navaneetcs27-debug/java-training/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/navaneetcs27-debug/java-training/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/navaneetcs27-debug/java-training/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/navaneetcs27-debug/java-training/tree/main/0509-fibonacci-number/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/navaneetcs27-debug/java-training/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/navaneetcs27-debug/java-training/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/navaneetcs27-debug/java-training/tree/main/0090-subsets-ii/) | Medium |
 | [0782-transform-to-chessboard](https://github.com/navaneetcs27-debug/java-training/tree/main/0782-transform-to-chessboard/) | Hard |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/navaneetcs27-debug/java-training/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0148-sort-list/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/navaneetcs27-debug/java-training/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/navaneetcs27-debug/java-training/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/navaneetcs27-debug/java-training/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,4 +252,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/navaneetcs27-debug/java-training/tree/main/0139-word-break/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/navaneetcs27-debug/java-training/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/navaneetcs27-debug/java-training/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 <!---LeetCode Topics End-->
