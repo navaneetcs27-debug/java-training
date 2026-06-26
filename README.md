@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/navaneetcs27-debug/java-training/tree/main/0207-course-schedule/) | Medium |
 | [0279-perfect-squares](https://github.com/navaneetcs27-debug/java-training/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/navaneetcs27-debug/java-training/tree/main/0322-coin-change/) | Medium |
 ## Merge Sort
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/navaneetcs27-debug/java-training/tree/main/0207-course-schedule/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Doubly-Linked List
@@ -260,4 +262,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/navaneetcs27-debug/java-training/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/navaneetcs27-debug/java-training/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/navaneetcs27-debug/java-training/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
