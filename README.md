@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/navaneetcs27-debug/java-training/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/navaneetcs27-debug/java-training/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/navaneetcs27-debug/java-training/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/navaneetcs27-debug/java-training/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/navaneetcs27-debug/java-training/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/navaneetcs27-debug/java-training/tree/main/0509-fibonacci-number/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/navaneetcs27-debug/java-training/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/navaneetcs27-debug/java-training/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/navaneetcs27-debug/java-training/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/navaneetcs27-debug/java-training/tree/main/0090-subsets-ii/) | Medium |
 | [0782-transform-to-chessboard](https://github.com/navaneetcs27-debug/java-training/tree/main/0782-transform-to-chessboard/) | Hard |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/navaneetcs27-debug/java-training/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/navaneetcs27-debug/java-training/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/navaneetcs27-debug/java-training/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/navaneetcs27-debug/java-training/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/navaneetcs27-debug/java-training/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/navaneetcs27-debug/java-training/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/navaneetcs27-debug/java-training/tree/main/0322-coin-change/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/navaneetcs27-debug/java-training/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/navaneetcs27-debug/java-training/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/navaneetcs27-debug/java-training/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/navaneetcs27-debug/java-training/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/navaneetcs27-debug/java-training/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/navaneetcs27-debug/java-training/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/navaneetcs27-debug/java-training/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
