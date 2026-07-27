@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/navaneetcs27-debug/java-training/tree/main/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/navaneetcs27-debug/java-training/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0455-assign-cookies](https://github.com/navaneetcs27-debug/java-training/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/navaneetcs27-debug/java-training/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## String
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/navaneetcs27-debug/java-training/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/navaneetcs27-debug/java-training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/navaneetcs27-debug/java-training/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0455-assign-cookies](https://github.com/navaneetcs27-debug/java-training/tree/main/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/navaneetcs27-debug/java-training/tree/main/0494-target-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0525-contiguous-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/navaneetcs27-debug/java-training/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0148-sort-list/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/navaneetcs27-debug/java-training/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/navaneetcs27-debug/java-training/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0455-assign-cookies](https://github.com/navaneetcs27-debug/java-training/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/navaneetcs27-debug/java-training/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/navaneetcs27-debug/java-training/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Design
@@ -309,4 +312,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/navaneetcs27-debug/java-training/tree/main/0207-course-schedule/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/navaneetcs27-debug/java-training/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
