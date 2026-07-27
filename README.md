@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/navaneetcs27-debug/java-training/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/navaneetcs27-debug/java-training/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/navaneetcs27-debug/java-training/tree/main/0139-word-break/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/navaneetcs27-debug/java-training/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/navaneetcs27-debug/java-training/tree/main/0198-house-robber/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/navaneetcs27-debug/java-training/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/navaneetcs27-debug/java-training/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/navaneetcs27-debug/java-training/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/navaneetcs27-debug/java-training/tree/main/0139-word-break/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/navaneetcs27-debug/java-training/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/navaneetcs27-debug/java-training/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/navaneetcs27-debug/java-training/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/navaneetcs27-debug/java-training/tree/main/0322-coin-change/) | Medium |
