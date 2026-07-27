@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/navaneetcs27-debug/java-training/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/navaneetcs27-debug/java-training/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/navaneetcs27-debug/java-training/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0148-sort-list/) | Medium |
 | [0189-rotate-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/navaneetcs27-debug/java-training/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/navaneetcs27-debug/java-training/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0143-reorder-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/navaneetcs27-debug/java-training/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Monotonic Stack
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/navaneetcs27-debug/java-training/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0390-elimination-game](https://github.com/navaneetcs27-debug/java-training/tree/main/0390-elimination-game/) | Medium |
@@ -149,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/navaneetcs27-debug/java-training/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/navaneetcs27-debug/java-training/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0234-palindrome-linked-list/) | Easy |
