@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/navaneetcs27-debug/java-training/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/navaneetcs27-debug/java-training/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/navaneetcs27-debug/java-training/tree/main/0547-number-of-provinces/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/navaneetcs27-debug/java-training/tree/main/0207-course-schedule/) | Medium |
 | [0279-perfect-squares](https://github.com/navaneetcs27-debug/java-training/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/navaneetcs27-debug/java-training/tree/main/0322-coin-change/) | Medium |
+| [0547-number-of-provinces](https://github.com/navaneetcs27-debug/java-training/tree/main/0547-number-of-provinces/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/navaneetcs27-debug/java-training/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/navaneetcs27-debug/java-training/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Merge Sort
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/navaneetcs27-debug/java-training/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/navaneetcs27-debug/java-training/tree/main/0207-course-schedule/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0547-number-of-provinces](https://github.com/navaneetcs27-debug/java-training/tree/main/0547-number-of-provinces/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/navaneetcs27-debug/java-training/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1192-critical-connections-in-a-network](https://github.com/navaneetcs27-debug/java-training/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -327,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/navaneetcs27-debug/java-training/tree/main/0207-course-schedule/) | Medium |
+| [0547-number-of-provinces](https://github.com/navaneetcs27-debug/java-training/tree/main/0547-number-of-provinces/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/navaneetcs27-debug/java-training/tree/main/1192-critical-connections-in-a-network/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
