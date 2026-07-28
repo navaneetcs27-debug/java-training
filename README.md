@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/navaneetcs27-debug/java-training/tree/main/0207-course-schedule/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/navaneetcs27-debug/java-training/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1192-critical-connections-in-a-network](https://github.com/navaneetcs27-debug/java-training/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/navaneetcs27-debug/java-training/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Doubly-Linked List
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/navaneetcs27-debug/java-training/tree/main/0207-course-schedule/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/navaneetcs27-debug/java-training/tree/main/1192-critical-connections-in-a-network/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -335,4 +337,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/navaneetcs27-debug/java-training/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/navaneetcs27-debug/java-training/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+## Biconnected Component
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/navaneetcs27-debug/java-training/tree/main/1192-critical-connections-in-a-network/) | Hard |
 <!---LeetCode Topics End-->
