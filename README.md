@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/navaneetcs27-debug/java-training/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/navaneetcs27-debug/java-training/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0079-word-search](https://github.com/navaneetcs27-debug/java-training/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/navaneetcs27-debug/java-training/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/navaneetcs27-debug/java-training/tree/main/0139-word-break/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/navaneetcs27-debug/java-training/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/navaneetcs27-debug/java-training/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/navaneetcs27-debug/java-training/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/navaneetcs27-debug/java-training/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/navaneetcs27-debug/java-training/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/navaneetcs27-debug/java-training/tree/main/0090-subsets-ii/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/navaneetcs27-debug/java-training/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/navaneetcs27-debug/java-training/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/navaneetcs27-debug/java-training/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/navaneetcs27-debug/java-training/tree/main/0200-number-of-islands/) | Medium |
 | [0782-transform-to-chessboard](https://github.com/navaneetcs27-debug/java-training/tree/main/0782-transform-to-chessboard/) | Hard |
 ## Recursion
@@ -176,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/navaneetcs27-debug/java-training/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/navaneetcs27-debug/java-training/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/navaneetcs27-debug/java-training/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/navaneetcs27-debug/java-training/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/navaneetcs27-debug/java-training/tree/main/0090-subsets-ii/) | Medium |
 | [0494-target-sum](https://github.com/navaneetcs27-debug/java-training/tree/main/0494-target-sum/) | Medium |
 ## Hash Table
@@ -270,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/navaneetcs27-debug/java-training/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/navaneetcs27-debug/java-training/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
