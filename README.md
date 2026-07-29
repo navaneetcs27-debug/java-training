@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/navaneetcs27-debug/java-training/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/navaneetcs27-debug/java-training/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0043-multiply-strings](https://github.com/navaneetcs27-debug/java-training/tree/main/0043-multiply-strings/) | Medium |
 | [0079-word-search](https://github.com/navaneetcs27-debug/java-training/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/navaneetcs27-debug/java-training/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/navaneetcs27-debug/java-training/tree/main/0139-word-break/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/navaneetcs27-debug/java-training/tree/main/0043-multiply-strings/) | Medium |
 | [0070-climbing-stairs](https://github.com/navaneetcs27-debug/java-training/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0189-rotate-array/) | Medium |
 | [0279-perfect-squares](https://github.com/navaneetcs27-debug/java-training/tree/main/0279-perfect-squares/) | Medium |
@@ -363,4 +365,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/navaneetcs27-debug/java-training/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/navaneetcs27-debug/java-training/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
