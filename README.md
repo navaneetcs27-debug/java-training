@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/navaneetcs27-debug/java-training/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/navaneetcs27-debug/java-training/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/navaneetcs27-debug/java-training/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/navaneetcs27-debug/java-training/tree/main/0043-multiply-strings/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/navaneetcs27-debug/java-training/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/navaneetcs27-debug/java-training/tree/main/0043-multiply-strings/) | Medium |
 | [0070-climbing-stairs](https://github.com/navaneetcs27-debug/java-training/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0189-rotate-array/) | Medium |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/navaneetcs27-debug/java-training/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/navaneetcs27-debug/java-training/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/navaneetcs27-debug/java-training/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/navaneetcs27-debug/java-training/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
