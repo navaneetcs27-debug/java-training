@@ -377,4 +377,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/navaneetcs27-debug/java-training/tree/main/0043-multiply-strings/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0194-transpose-file](https://github.com/navaneetcs27-debug/java-training/tree/main/0194-transpose-file/) | Medium |
 <!---LeetCode Topics End-->
