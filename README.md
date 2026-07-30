@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/navaneetcs27-debug/java-training/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/navaneetcs27-debug/java-training/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/navaneetcs27-debug/java-training/tree/main/0043-multiply-strings/) | Medium |
 | [0069-sqrtx](https://github.com/navaneetcs27-debug/java-training/tree/main/0069-sqrtx/) | Easy |
