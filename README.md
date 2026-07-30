@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/navaneetcs27-debug/java-training/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/navaneetcs27-debug/java-training/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/navaneetcs27-debug/java-training/tree/main/0079-word-search/) | Medium |
+| [0085-maximal-rectangle](https://github.com/navaneetcs27-debug/java-training/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/navaneetcs27-debug/java-training/tree/main/0090-subsets-ii/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/navaneetcs27-debug/java-training/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/navaneetcs27-debug/java-training/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/navaneetcs27-debug/java-training/tree/main/0070-climbing-stairs/) | Easy |
+| [0085-maximal-rectangle](https://github.com/navaneetcs27-debug/java-training/tree/main/0085-maximal-rectangle/) | Hard |
 | [0139-word-break](https://github.com/navaneetcs27-debug/java-training/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/navaneetcs27-debug/java-training/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/navaneetcs27-debug/java-training/tree/main/0198-house-robber/) | Medium |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/navaneetcs27-debug/java-training/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/navaneetcs27-debug/java-training/tree/main/0042-trapping-rain-water/) | Hard |
+| [0085-maximal-rectangle](https://github.com/navaneetcs27-debug/java-training/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/navaneetcs27-debug/java-training/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0143-reorder-list/) | Medium |
@@ -124,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/navaneetcs27-debug/java-training/tree/main/0042-trapping-rain-water/) | Hard |
+| [0085-maximal-rectangle](https://github.com/navaneetcs27-debug/java-training/tree/main/0085-maximal-rectangle/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/navaneetcs27-debug/java-training/tree/main/0036-valid-sudoku/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/navaneetcs27-debug/java-training/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/navaneetcs27-debug/java-training/tree/main/0079-word-search/) | Medium |
+| [0085-maximal-rectangle](https://github.com/navaneetcs27-debug/java-training/tree/main/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/navaneetcs27-debug/java-training/tree/main/0200-number-of-islands/) | Medium |
 | [0782-transform-to-chessboard](https://github.com/navaneetcs27-debug/java-training/tree/main/0782-transform-to-chessboard/) | Hard |
 ## Recursion
