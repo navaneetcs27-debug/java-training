@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/navaneetcs27-debug/java-training/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/navaneetcs27-debug/java-training/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/navaneetcs27-debug/java-training/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/navaneetcs27-debug/java-training/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/navaneetcs27-debug/java-training/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/navaneetcs27-debug/java-training/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/navaneetcs27-debug/java-training/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/navaneetcs27-debug/java-training/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/navaneetcs27-debug/java-training/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/navaneetcs27-debug/java-training/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Biconnected Component
