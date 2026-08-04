@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0525-contiguous-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/navaneetcs27-debug/java-training/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/navaneetcs27-debug/java-training/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0704-binary-search](https://github.com/navaneetcs27-debug/java-training/tree/main/0704-binary-search/) | Easy |
 | [0782-transform-to-chessboard](https://github.com/navaneetcs27-debug/java-training/tree/main/0782-transform-to-chessboard/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/navaneetcs27-debug/java-training/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/navaneetcs27-debug/java-training/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/navaneetcs27-debug/java-training/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0069-sqrtx](https://github.com/navaneetcs27-debug/java-training/tree/main/0069-sqrtx/) | Easy |
+| [0704-binary-search](https://github.com/navaneetcs27-debug/java-training/tree/main/0704-binary-search/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/navaneetcs27-debug/java-training/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/navaneetcs27-debug/java-training/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/navaneetcs27-debug/java-training/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
