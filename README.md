@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/navaneetcs27-debug/java-training/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/navaneetcs27-debug/java-training/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/navaneetcs27-debug/java-training/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/navaneetcs27-debug/java-training/tree/main/0020-valid-parentheses/) | Easy |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/navaneetcs27-debug/java-training/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/navaneetcs27-debug/java-training/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/navaneetcs27-debug/java-training/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/navaneetcs27-debug/java-training/tree/main/0041-first-missing-positive/) | Hard |
@@ -412,4 +414,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0194-transpose-file](https://github.com/navaneetcs27-debug/java-training/tree/main/0194-transpose-file/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/navaneetcs27-debug/java-training/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
