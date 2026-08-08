@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/navaneetcs27-debug/java-training/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/navaneetcs27-debug/java-training/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/navaneetcs27-debug/java-training/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0174-dungeon-game](https://github.com/navaneetcs27-debug/java-training/tree/main/0174-dungeon-game/) | Hard |
 | [0189-rotate-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/navaneetcs27-debug/java-training/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/navaneetcs27-debug/java-training/tree/main/0200-number-of-islands/) | Medium |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/navaneetcs27-debug/java-training/tree/main/0097-interleaving-string/) | Medium |
 | [0139-word-break](https://github.com/navaneetcs27-debug/java-training/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/navaneetcs27-debug/java-training/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0174-dungeon-game](https://github.com/navaneetcs27-debug/java-training/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/navaneetcs27-debug/java-training/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/navaneetcs27-debug/java-training/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/navaneetcs27-debug/java-training/tree/main/0322-coin-change/) | Medium |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/navaneetcs27-debug/java-training/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/navaneetcs27-debug/java-training/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/navaneetcs27-debug/java-training/tree/main/0085-maximal-rectangle/) | Hard |
+| [0174-dungeon-game](https://github.com/navaneetcs27-debug/java-training/tree/main/0174-dungeon-game/) | Hard |
 | [0200-number-of-islands](https://github.com/navaneetcs27-debug/java-training/tree/main/0200-number-of-islands/) | Medium |
 | [0782-transform-to-chessboard](https://github.com/navaneetcs27-debug/java-training/tree/main/0782-transform-to-chessboard/) | Hard |
 ## Recursion
