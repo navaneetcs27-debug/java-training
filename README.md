@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/navaneetcs27-debug/java-training/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/navaneetcs27-debug/java-training/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/navaneetcs27-debug/java-training/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/navaneetcs27-debug/java-training/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/navaneetcs27-debug/java-training/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/navaneetcs27-debug/java-training/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/navaneetcs27-debug/java-training/tree/main/0056-merge-intervals/) | Medium |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/navaneetcs27-debug/java-training/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/navaneetcs27-debug/java-training/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/navaneetcs27-debug/java-training/tree/main/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/navaneetcs27-debug/java-training/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/navaneetcs27-debug/java-training/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/navaneetcs27-debug/java-training/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0189-rotate-array/) | Medium |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/navaneetcs27-debug/java-training/tree/main/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/navaneetcs27-debug/java-training/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/navaneetcs27-debug/java-training/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/navaneetcs27-debug/java-training/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/navaneetcs27-debug/java-training/tree/main/0074-search-a-2d-matrix/) | Medium |
