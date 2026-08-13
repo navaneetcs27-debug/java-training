@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/navaneetcs27-debug/java-training/tree/main/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/navaneetcs27-debug/java-training/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0455-assign-cookies](https://github.com/navaneetcs27-debug/java-training/tree/main/0455-assign-cookies/) | Easy |
+| [0567-permutation-in-string](https://github.com/navaneetcs27-debug/java-training/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/navaneetcs27-debug/java-training/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## String
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/navaneetcs27-debug/java-training/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/navaneetcs27-debug/java-training/tree/main/0139-word-break/) | Medium |
 | [0242-valid-anagram](https://github.com/navaneetcs27-debug/java-training/tree/main/0242-valid-anagram/) | Easy |
+| [0567-permutation-in-string](https://github.com/navaneetcs27-debug/java-training/tree/main/0567-permutation-in-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/navaneetcs27-debug/java-training/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/navaneetcs27-debug/java-training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/navaneetcs27-debug/java-training/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0525-contiguous-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0525-contiguous-array/) | Medium |
+| [0567-permutation-in-string](https://github.com/navaneetcs27-debug/java-training/tree/main/0567-permutation-in-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -442,4 +445,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/navaneetcs27-debug/java-training/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0567-permutation-in-string](https://github.com/navaneetcs27-debug/java-training/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
