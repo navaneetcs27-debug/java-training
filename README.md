@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/navaneetcs27-debug/java-training/tree/main/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/navaneetcs27-debug/java-training/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/navaneetcs27-debug/java-training/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/navaneetcs27-debug/java-training/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/navaneetcs27-debug/java-training/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/navaneetcs27-debug/java-training/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/navaneetcs27-debug/java-training/tree/main/0139-word-break/) | Medium |
 | [0242-valid-anagram](https://github.com/navaneetcs27-debug/java-training/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/navaneetcs27-debug/java-training/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/navaneetcs27-debug/java-training/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/navaneetcs27-debug/java-training/tree/main/0567-permutation-in-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/navaneetcs27-debug/java-training/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## String Matching
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/navaneetcs27-debug/java-training/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/navaneetcs27-debug/java-training/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/navaneetcs27-debug/java-training/tree/main/0322-coin-change/) | Medium |
+| [0392-is-subsequence](https://github.com/navaneetcs27-debug/java-training/tree/main/0392-is-subsequence/) | Easy |
 | [0494-target-sum](https://github.com/navaneetcs27-debug/java-training/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/navaneetcs27-debug/java-training/tree/main/0509-fibonacci-number/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/navaneetcs27-debug/java-training/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
