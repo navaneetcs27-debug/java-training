@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/navaneetcs27-debug/java-training/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/navaneetcs27-debug/java-training/tree/main/0031-next-permutation/) | Medium |
+| [0035-search-insert-position](https://github.com/Navaneet2341/java-training/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/navaneetcs27-debug/java-training/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/navaneetcs27-debug/java-training/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/navaneetcs27-debug/java-training/tree/main/0041-first-missing-positive/) | Hard |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/navaneetcs27-debug/java-training/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0035-search-insert-position](https://github.com/Navaneet2341/java-training/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/navaneetcs27-debug/java-training/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/navaneetcs27-debug/java-training/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0704-binary-search](https://github.com/navaneetcs27-debug/java-training/tree/main/0704-binary-search/) | Easy |
