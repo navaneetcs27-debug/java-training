@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/navaneetcs27-debug/java-training/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/navaneetcs27-debug/java-training/tree/main/0085-maximal-rectangle/) | Hard |
 | [0095-unique-binary-search-trees-ii](https://github.com/navaneetcs27-debug/java-training/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Navaneet2341/java-training/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/navaneetcs27-debug/java-training/tree/main/0097-interleaving-string/) | Medium |
 | [0139-word-break](https://github.com/navaneetcs27-debug/java-training/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/navaneetcs27-debug/java-training/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/navaneetcs27-debug/java-training/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/navaneetcs27-debug/java-training/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/navaneetcs27-debug/java-training/tree/main/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Navaneet2341/java-training/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0189-rotate-array/) | Medium |
 | [0279-perfect-squares](https://github.com/navaneetcs27-debug/java-training/tree/main/0279-perfect-squares/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/navaneetcs27-debug/java-training/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -364,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/navaneetcs27-debug/java-training/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/navaneetcs27-debug/java-training/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Navaneet2341/java-training/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/0101-symmetric-tree/) | Easy |
@@ -381,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/navaneetcs27-debug/java-training/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Navaneet2341/java-training/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -391,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/navaneetcs27-debug/java-training/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/navaneetcs27-debug/java-training/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Navaneet2341/java-training/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/0101-symmetric-tree/) | Easy |
