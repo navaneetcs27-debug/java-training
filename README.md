@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/navaneetcs27-debug/java-training/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/navaneetcs27-debug/java-training/tree/main/0058-length-of-last-word/) | Easy |
 | [0079-word-search](https://github.com/navaneetcs27-debug/java-training/tree/main/0079-word-search/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/Navaneet2341/java-training/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/navaneetcs27-debug/java-training/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/navaneetcs27-debug/java-training/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/navaneetcs27-debug/java-training/tree/main/0139-word-break/) | Medium |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/navaneetcs27-debug/java-training/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/navaneetcs27-debug/java-training/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/navaneetcs27-debug/java-training/tree/main/0090-subsets-ii/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/Navaneet2341/java-training/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/navaneetcs27-debug/java-training/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0494-target-sum](https://github.com/navaneetcs27-debug/java-training/tree/main/0494-target-sum/) | Medium |
 ## Hash Table
