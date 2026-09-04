@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/navaneetcs27-debug/java-training/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Navaneet2341/java-training/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/navaneetcs27-debug/java-training/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Navaneet2341/java-training/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/navaneetcs27-debug/java-training/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/navaneetcs27-debug/java-training/tree/main/0207-course-schedule/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/navaneetcs27-debug/java-training/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Navaneet2341/java-training/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/navaneetcs27-debug/java-training/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -410,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/navaneetcs27-debug/java-training/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/navaneetcs27-debug/java-training/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Navaneet2341/java-training/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/navaneetcs27-debug/java-training/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/navaneetcs27-debug/java-training/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
