@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/navaneetcs27-debug/java-training/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/navaneetcs27-debug/java-training/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/navaneetcs27-debug/java-training/tree/main/0139-word-break/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/Navaneet2341/java-training/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0179-largest-number](https://github.com/Navaneet2341/java-training/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/navaneetcs27-debug/java-training/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/navaneetcs27-debug/java-training/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/navaneetcs27-debug/java-training/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/navaneetcs27-debug/java-training/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Navaneet2341/java-training/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/Navaneet2341/java-training/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0189-rotate-array](https://github.com/navaneetcs27-debug/java-training/tree/main/0189-rotate-array/) | Medium |
 | [0279-perfect-squares](https://github.com/navaneetcs27-debug/java-training/tree/main/0279-perfect-squares/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/navaneetcs27-debug/java-training/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/navaneetcs27-debug/java-training/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/navaneetcs27-debug/java-training/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/navaneetcs27-debug/java-training/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/Navaneet2341/java-training/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0242-valid-anagram](https://github.com/navaneetcs27-debug/java-training/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/navaneetcs27-debug/java-training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/navaneetcs27-debug/java-training/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
